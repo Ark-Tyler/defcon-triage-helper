@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/defcon-incident-triage/static/css/main.372816f2.css",
+    "main.js": "/defcon-incident-triage/static/js/main.572a35d4.js",
+    "static/js/453.91692acf.chunk.js": "/defcon-incident-triage/static/js/453.91692acf.chunk.js",
+    "index.html": "/defcon-incident-triage/index.html",
+    "main.372816f2.css.map": "/defcon-incident-triage/static/css/main.372816f2.css.map",
+    "main.572a35d4.js.map": "/defcon-incident-triage/static/js/main.572a35d4.js.map",
+    "453.91692acf.chunk.js.map": "/defcon-incident-triage/static/js/453.91692acf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.372816f2.css",
+    "static/js/main.572a35d4.js"
+  ]
+}
